@@ -1,11 +1,1 @@
-(在S1)第一个EXPAT WCO Integration with GL就是新增了个JE WCO，能够正常创建，并且按workflow 流转(切换Insomnia)，这里我已经准备好了这个接口，调用一下，返回了这个id，然后我们去 GL 搜一下这个id,(搜出来)是这个。(切换C1)我们按这个workflow的状态走一下看看，第一个是Draft，(提交完)ok，第二个是
-Application form Completed,(提交完)ok，都是正确的，后续会
-按workflow 继续流转。
-(切换S2)第二个EXPAT WCO Case Merge Logic有Staff Referral和 Global Referral 两种，第一种就是在GL 上手动创建，第二种就是International Desk 通过接口创建，然后再进行auto merge。←我来演示一下第一种，(切换存id的 txt)首先我已经在GL上手动创建了一个,是这个id,(换GL)我们搜索查看一下,(滚动到customer)接下来用同样的customer参数通过接口进行auto merge,(切换 Insomnia)返回的 id 是一样的，merge成功。第二种是用 International Desk 接口创建，(换脚本)使用相同的customer 参数进行 auto merge,返回的id是一样的，merge成功,这是所有了，
-谢谢。
-
-(Switch to S1)The first EXPAT WCO Integration with GL is adding a JE WCO,which can be created normally and flow through the workflow.(切换 Insomnia)I've prepared this interface.Let me call it.It returns this id.Then we search this id on GL.(切换 C1)Let's follow the workflow status.The first is Draft,(提交完)OK,the second is Application form Completed,(提交完)OK,all are correct and will continue to flow through the workflow.
-
-(Switch to S2)The second EXPAT WCO Case Merge Logic has two types:Staff Referral and Global Referral.The first is manually created on GL,and the second is created via the International Desk interface and then auto-merged.
-
-Let me show the first type.(切换存 id 的 txt)I've manually created one on GL with this id.(切换 GL)Let's search and view it.(滚动到 customer)Next,use the same customer parameters to auto-merge via the interface.(切换 Insomnia)The returned id is the same,and the merge is successful.The second type is created via the International Desk interface.(换脚本)Use the same customer parameters for auto-merge,and the returned id is the same,so the merge is successful.That's all,thanks.
+Good morning,everyone.Yesterday,I was mainly working on the code change for the upload and download functionality.It has been completed and tested.Today,I will continue to add unit tests and test cases for this part.After this is done,I will start working on the“add field”task.There are no risks at the moment.
