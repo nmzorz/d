@@ -1,1 +1,4 @@
-Good morning, everyone. Yesterday, I mainly transferred the code that fixed the Sonar issues to the new branch. Today, I will continue to fix the remaining Sonar issues for AccountOpenService and improve the unit test coverage. There are no risks at the moment.
+Good morning, everyone.
+Yesterday, I mainly prepared the test evidence for eSignature and then fixed some failing unit tests.
+Today, I will continue improving unit test coverage. Once that’s done, I’ll start the PT for WCO task.
+No risks at the moment.
