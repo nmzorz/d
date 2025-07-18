@@ -1,5 +1,4 @@
 Good morning, everyone.
-
-Yesterday, I mainly completed the application for all the permissions related to AAF.
-Today, I will continue with AAF-related operations and code changes.
-no risks at the moment.
+Yesterday, I focused on improving the Sonar and PR checks for notification-details to green, added more unit tests, and fixed several API-license issues.
+Today, I will continue improving the PR check to green and fixing the remaining API-license problems. Once that is done, I will start the "create new endpoint" task.
+No risks at the moment.
