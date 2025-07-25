@@ -1,4 +1,7 @@
 Good morning, everyone.
-Yesterday, I focused on improving the Sonar and PR checks for notification-details to green, added more unit tests, and fixed several API-license issues.
-Today, I will continue improving the PR check to green and fixing the remaining API-license problems. Once that is done, I will start the "create new endpoint" task.
-No risks at the moment.
+
+Yesterday, I continued working on the code changes for the new endpoint in notification-details; it isn’t finished yet.
+
+Today, I will keep implementing and testing the new endpoint.
+
+There are no risks at the moment.
