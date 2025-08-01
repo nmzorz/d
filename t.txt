@@ -1,7 +1,4 @@
-Good morning, everyone.
-
-Yesterday, I continued working on the code changes for the new endpoint in notification-details; it isn’t finished yet.
-
-Today, I will keep implementing and testing the new endpoint.
-
-There are no risks at the moment.
+Good morning, everyone.  
+Yesterday, I mainly fixed Sonar issues in the notification-details code and worked on making the PR checks pass. I also resolved several API-licence issues in pa-notifications.  
+Today, I will continue fixing the remaining API-licence issues for PA-notifications and draft the API-design document. 
+No risks at the moment.
