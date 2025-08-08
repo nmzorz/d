@@ -1,4 +1,4 @@
-Good morning, everyone.  
-Yesterday, I mainly fixed Sonar issues in the notification-details code and worked on making the PR checks pass. I also resolved several API-licence issues in pa-notifications.  
-Today, I will continue fixing the remaining API-licence issues for PA-notifications and draft the API-design document. 
-No risks at the moment.
+Good morning, everyone.
+Yesterday, I focused on analyzing the Apply c2b token feature and reviewed the related documentation.
+Today, I will continue this analysis and start the code change.
+no risks at the moment.
