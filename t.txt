@@ -1,4 +1,4 @@
 Good morning, everyone.
-Yesterday, I focused on analyzing the Apply c2b token feature and reviewed the related documentation.
-Today, I will continue this analysis and start the code change.
-no risks at the moment.
+Yesterday, I deployed and tested the PA-notification code, made a few additional changes, and finalized the API-design document.
+Today I'll finish the remaining code change and add unit test coverage.  
+No risks right now
