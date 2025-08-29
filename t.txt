@@ -1,9 +1,1 @@
-Good morning, everyone.
-Yesterday, I spent most of the time in meetings. The remaining time was used to start the Account Referral release preparation.
-Today, I will continue the release preparation for account referral, package and prepare the relevant links. 
-No risks at the moment.
-
-Good morning everyone,
-I think there are four simple steps to host a good meeting. 
-First, always set a clear agenda and share it in advance. This helps everyone come prepared. Second, start and end on time to respect everyone's schedule.Third,  during the meeting,  keep the discussion focused and invite quiet members to share their ideas.  Finally, summarize key points and action items at the end to ensure everyone is on the same page.These small habits make every meeting shorter and more useful. 
-Thank you!
+Good morning, everyone. Yesterday, I mainly helped Lily pass the yellow belt exam, and I continued to add the unit tests for GL and fixed some Sonar issues. Today, I’ll finish the remaining Sonar issues. If time permits, I will start working on the auto testing fixes. No risks at the moment.
