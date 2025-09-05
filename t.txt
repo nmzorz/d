@@ -1,1 +1,12 @@
-Good morning, everyone. Yesterday, I mainly helped Lily pass the yellow belt exam, and I continued to add the unit tests for GL and fixed some Sonar issues. Today, I’ll finish the remaining Sonar issues. If time permits, I will start working on the auto testing fixes. No risks at the moment.
+Good morning, everyone.
+Yesterday, I kicked off the mail-handle release preparation—compiled([kəmˈpaɪld]) the documents and created the CR.
+Today I’ll continue the release-preparation tasks.
+No risks at the moment.
+
+Hello everyone,
+Today I'd like to share a few  English words that I have found a bit tricky([ˈtrɪki]) to pronounce. 
+The first one is Archive( [ˈɑːkaɪv]). We use this word all the time for backups and logs. the correct pronunciation is actually ( [ˈɑːkaɪv]). The 'ch' is silent.
+The second word is  “cache([kæʃ])”. Someone pronounced it “catch”. It’s /kæʃ/, one soft “sh” at the end.
+The third word is Asynchronous( [eɪˈsɪŋkrənəs]), The key is to put the stress on the right syllable( [ˈsɪləbl])
+Finally, there's Query() [ˈkwɪəri]. We query databases every day. the standard pronunciation should be ( [ˈkwɪəri]), with a short 'i' sound.
+Thanks for listening
