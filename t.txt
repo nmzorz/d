@@ -1,31 +1,4 @@
-开场：
-Good morning, everyone. today is Friday，English meeting.
-Just a quick reminder: Melody will be hosting next week.
-let's start. First one,Philip
-
-中途加入：
-Terry has just joined. Let’s continue.
-
-有人请假：
-Ken is on leave today, so next is Zack.
-
-询问风险/阻碍：
-Any risks or blockers?
-
-请领导更新：
-Next is Mandy, any updates from your side?
-
-最后询问大家：
-Does anyone else have anything to discuss? Or anyone need Ken’s help?
-
-结束语：
-If there’s nothing else, that’s all for today. Thanks, everyone. Bye!
-
-
-Good morning, everyone.
-
-Yesterday, I updated a few items for release preparation and then tested the new delete API—no issues found, so that task is now complete.
-
-Today I’ll start fixing Sonar issues.
-
+Good morning, everyone.  
+Yesterday, I tested the e-mail sending of the new endpoint and fixed the “similar” issue flagged in the API-license check.  
+Today I’ll begin the release preparation for mail-handle.  
 No risks at the moment.
