@@ -1,1 +1,5 @@
-Good morning, everyone. Yesterday, I finalized the S3 upload API changes. The testing passed, and the code was merged. I also fixed several Sonar issues and added some unit tests. Today, I'll continue working on the remaining Sonar issues. No risks at the moment.
+Good morning, everyone.
+
+Yesterday, I completed the initial code development for the new attachment API.
+Today, I will conduct further testing and add the related unit tests.
+No risks at the moment.
