@@ -1,7 +1,9 @@
+Over the past year, I’ve mastered the team’s core workflows, taking ownership of most tasks for SHP API licensing and release preparation to ensure their stability. Technically, I investigated our code quality tool's source code and led knowledge-sharing sessions, elevating team standards. I also eliminated reams of repetitive “Code to Value” mapping with an annotation and AOP refactor, cutting boilerplate and boosting dev speed. Next year  I will continue to deepen my technical expertise, share knowledge to empower the team, and translate these efforts into greater business impact.
+
 Good morning, everyone.
 
-Yesterday, I added unit tests for the PAPI attachment endpoint and improved the Search Referral List endpoint.
+Yesterday, I worked on adding the corresponding API contracts for the endpoints delivered earlier.
 
-Today, I’ll continue making adjustments to the Search Referral List and then draft the API design document.
+Today, I'll continue with this work to complete the API contracts and then move on to drafting the API design document.
 
 No risks at the moment.
