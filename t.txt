@@ -1,7 +1,7 @@
 Good morning, everyone.
 
-Yesterday, I mostly completed the code changes for the purge job.
+Yesterday, I continued to monitor the API license issues and then started the performance testing for the attachment, preparing some scripts.
 
-Today, I'll finalize the code changes and then move on to testing the purge job and adding the necessary unit tests.
+Today, I will continue with the performance testing for the attachment. Once that is done, I will start adding unit tests for GL.
 
 No risks at the moment.
