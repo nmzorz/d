@@ -1,7 +1,7 @@
 Good morning, everyone.
 
-Yesterday, I continued to monitor the API license issues and then started the performance testing for the attachment, preparing some scripts.
+Yesterday, I completed the scripts for the attachment performance test and ran a smoke test. The report results were all normal.
 
-Today, I will continue with the performance testing for the attachment. Once that is done, I will start adding unit tests for GL.
+Today, I will continue with the remaining scripts for the attachment performance test.
 
 No risks at the moment.
