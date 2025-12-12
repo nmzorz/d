@@ -1,7 +1,7 @@
 Good morning, everyone.
 
-Yesterday, I completed the scripts for the attachment performance test and ran a smoke test. The report results were all normal.
+Yesterday, I optimized the attachment performance test based on the soak script report and reran it. I also analyzed the reasons for the errors in CustomerNotifyService.
 
-Today, I will continue with the remaining scripts for the attachment performance test.
+Today, I will continue to fix the errors in CustomerNotifyService. Once that is done, I will start adding unit tests for GL.
 
 No risks at the moment.
