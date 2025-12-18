@@ -1,7 +1,7 @@
 Good morning, everyone.
 
-Yesterday, I optimized the attachment performance test based on the soak script report and reran it. I also analyzed the reasons for the errors in CustomerNotifyService.
+Yesterday, I continued to add unit tests for GL, and that task is now complete.
 
-Today, I will continue to fix the errors in CustomerNotifyService. Once that is done, I will start adding unit tests for GL.
+Today, I will start working on adding the download MI report function for the HK tag.
 
 No risks at the moment.
