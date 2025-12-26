@@ -1,7 +1,7 @@
 Good morning, everyone.
 
-Yesterday, I continued to add unit tests for GL, and that task is now complete.
+Yesterday, I worked on improving the code score for PAPI servicing and fixed several Sonar issues.
 
-Today, I will start working on adding the download MI report function for the HK tag.
+Today, I will continue to optimize the code and look for ways to further improve the code score.
 
 No risks at the moment.
