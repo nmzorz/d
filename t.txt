@@ -1,7 +1,7 @@
 Good morning, everyone.
 
-Yesterday, I worked on improving the code score for PAPI servicing and fixed several Sonar issues.
+Yesterday, I started the code changes for the PAPI download report feature.
 
-Today, I will continue to optimize the code and look for ways to further improve the code score.
+Today, I will continue with the code changes and start writing unit tests for the download report.
 
 No risks at the moment.
