@@ -1,4 +1,7 @@
 Good morning, everyone.
-Yesterday, I provided support for some BAU issues, followed by testing the code for the Staff Notification.
-Today, I will conduct further testing on the code. If there are any BAU issues, I will provide support.
-There are no risks.
+
+Yesterday, I worked on the PAPI release preparation—the CR was finally submitted. I also helped Lily resolve some issues. After that, I tested the PFS code; there are still some problems.
+
+Today, I will retest it and supplement the test cases.
+
+No risks at the moment.
