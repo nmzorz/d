@@ -1,7 +1,7 @@
 Good morning, everyone.
 
-Yesterday, I worked on the PAPI release preparation—the CR was finally submitted. I also helped Lily resolve some issues. After that, I tested the PFS code; there are still some problems.
+Yesterday, I provided support for some BAU issues and then worked on migrating the MailEngineService code.
 
-Today, I will retest it and supplement the test cases.
+Today, I will continue migrating the related code and testing. If there are any BAU issues, I will provide support.
 
 No risks at the moment.
