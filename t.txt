@@ -1,7 +1,117 @@
-Good morning, everyone.
+明白了。你要的是：**每天3道练习题，每道题的答案后面直接带上“（语法注释）”**，并且把当天所有内容（默写词 + 练习题）压缩到一张小卡片上，方便截图或打印背诵。
 
-Yesterday, I provided support for some BAU issues and then worked on migrating the MailEngineService code.
+下面我按你的要求，把**第1周（周一至周五）** 做成 **5张独立卡片**。每张卡片包含：
+- 当天需要默写的5个词（只列词，你自己默写）
+- 3道中文练习题 + 英文答案 + 语法注释
 
-Today, I will continue migrating the related code and testing. If there are any BAU issues, I will provide support.
+你可以直接复制到手机备忘录或打印出来。
 
-No risks at the moment.
+---
+
+## 📆 第1周 · 英语时态训练卡片
+
+### 🟦 周一卡片
+**默写词（5个）**  
+permission, database, deployment, batch job, connection pool
+
+**练习题（写英文 + 对照答案）**
+
+1. 昨天我修改了一个SQL。  
+   → I modified a SQL query yesterday.  
+   **（一般过去时）**
+
+2. 我已经修复了空指针。  
+   → I have fixed the null pointer.  
+   **（现在完成时）**
+
+3. 如果明天批处理失败，我会检查日志。  
+   → If the batch job fails tomorrow, I will check the logs.  
+   **（If + 一般现在时, will + 动词原形）**
+
+---
+
+### 🟩 周二卡片
+**默写词（5个）**  
+investigate, timeout, null pointer, exception, reproduce
+
+**练习题**
+
+1. 上周我部署到UAT。  
+   → I deployed to UAT last week.  
+   **（一般过去时）**
+
+2. 我们已经增加了连接池大小。  
+   → We have increased the connection pool size.  
+   **（现在完成时）**
+
+3. 当我收到工单时，我会先看日志。  
+   → When I receive a ticket, I will check the logs first.  
+   **（When + 一般现在时, will + 动词原形）**
+
+---
+
+### 🟨 周三卡片
+**默写词（5个）**  
+urgent, delay, deliver, schedule, blocker
+
+**练习题**
+
+1. 他昨天没有给我权限。  
+   → He did not grant me permission yesterday.  
+   **（一般过去时 否定）**
+
+2. 你完成回归测试了吗？  
+   → Have you finished the regression tests?  
+   **（现在完成时 疑问句）**
+
+3. 如果我有权限，就能查生产数据。  
+   → If I have permission, I can check the production data.  
+   **（If + 一般现在时, can + 动词原形）**
+
+---
+
+### 🟪 周四卡片
+**默写词（5个）**  
+environment (UAT/PROD), credential, log, transaction, module
+
+**练习题**
+
+1. 昨天站会上我说了什么？  
+   → What did I say in the daily stand‑up yesterday?  
+   **（一般过去时 特殊疑问句）**
+
+2. 我刚收到一个紧急BAU任务。  
+   → I have just received an urgent BAU ticket.  
+   **（现在完成时 + just）**
+
+3. 在我合并PR之前，需要先rebase。  
+   → Before I merge the PR, I need to rebase first.  
+   **（Before + 一般现在时, 主句用一般现在时表示习惯/必要）**  
+   *注：这里不是将来，因为“需要”是客观事实，所以主句也用一般现在时。*
+
+---
+
+### 🟥 周五卡片
+**默写词（5个）**  
+review, approve, release, rollback, incident
+
+**练习题**
+
+1. 他们已批准了这次发布。  
+   → They have approved the release.  
+   **（现在完成时 被动含义但用主动语态）**
+
+2. 今天我会回滚那个变更。  
+   → I will roll back that change today.  
+   **（一般将来时）**
+
+3. 如果发生SEV-2事故，我们要立即响应。  
+   → If a SEV-2 incident occurs, we should respond immediately.  
+   **（If + 一般现在时, should + 动词原形 表示建议/义务）**
+
+---
+
+## ✅ 使用建议
+- **每天只背一张卡片**：先默写词（写3遍 → 默1遍），再看练习题，**挡住答案自己写一遍**，然后对照。
+- 每道题的**语法注释**也读一遍，帮助你下次看到类似句子就知道用什么时态。
+- 周末复习周一到周五的所有错题。
